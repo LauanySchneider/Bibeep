@@ -1,2 +1,2 @@
 # 👤 Autor
-Este projeto foi desenvolvido por [Murilo Garcia Ribeiro]. ✨
+Este projeto foi desenvolvido por [Murilo Garcia Ribeiro & Lauany Schneider]. ✨
