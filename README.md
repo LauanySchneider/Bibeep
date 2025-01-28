@@ -1,5 +1,2 @@
-# Bibeep
-Bibeep/Código de Barras
-
-
-teste
+# 👤 Autor
+Este projeto foi desenvolvido por [Murilo Garcia Ribeiro]. ✨
