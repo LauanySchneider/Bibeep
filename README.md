@@ -86,9 +86,11 @@ DB_PASSWORD=postgres
 ## COMO EXECUTAR 
 Abra o terminal no VSCode, certifique-se se esta na pasta Bibeep
 
-    ```bash
-    php artisan 
+     
+     ```bash
+    php artisan
     ```
+
 
   
 
