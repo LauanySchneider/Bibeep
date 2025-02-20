@@ -83,10 +83,20 @@ DB_USERNAME=postgres
 DB_PASSWORD=postgres
    ```
 
+## COMO EXECUTAR 
+Abra o terminal no VSCode, certifique-se se esta na pasta Bibeep
+
+```bash
+    php artisan --
+    ```
+
   
 
+# ⚠️ Dificuldades Conhecidas
+
+
+• Devido a sua complexidade, o Laravel pode ser difícil de se trabalhar, onde você arruma de um lado e para em um outro ponto, necessário tomar cuidado com as alterações e guardar um backup.
 
 # 💡 Dicas e Sugestões:
 
-Este projeto pode ser expandido com a inclusão de mais funcionalidades, como edição de dados ou integração com um banco de dados real.
-Espero que este projeto seja útil para você! 😄 Caso tenha dúvidas ou sugestões, fique à vontade para abrir uma issue ou fazer um pull request. 🙌
+Este projeto pode ser expandido com a inclusão de mais funcionalidades,espero que este projeto seja útil para você! 😄 Caso tenha dúvidas ou sugestões, fique à vontade para abrir uma issue ou fazer um pull request. 🙌
