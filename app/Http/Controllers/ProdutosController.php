@@ -12,7 +12,7 @@ class ProdutosController extends Controller
     {
         // Usando o 'with' para carregar os produtos diretamente
         $produtos = Produto::all();
-        return view('produtos.index', compact('produtos'));
+        return view('Produtos.index', compact('produtos'));
     }
 
     public function store(Request $request)
