@@ -50,9 +50,6 @@ Aqui estão os principais arquivos do projeto:
 1. Clone ou Baixe o Repositório
 Você pode clonar o repositório ou baixar como um arquivo zip:
 
-git clone 
-
-cd B
 
 1. Clone o repositório:
     ```bash
@@ -68,6 +65,9 @@ cd B
     ```bash
     composer install
     ```
+
+Caso necessite do Composer, user este link (https://getcomposer.org/download/)
+
 4. Faca a copia das variveis de ambiente e baixe, arquivo necessario para que funcione o Bibeep:
 https://drive.google.com/drive/folders/1nyN8F1sni1w9J0muEQWi-zIeOKONJAjf?usp=sharing
 
