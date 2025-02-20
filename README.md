@@ -83,12 +83,21 @@ DB_USERNAME=postgres
 DB_PASSWORD=postgres
    ```
 
+6. Execute as migrações do banco de dados:
+    ```bash
+     php artisan key:generate
+    ```
+     ```bash
+     php artisan migrate
+    ```
+
+
 ## COMO EXECUTAR 
 
 
 1. Abra o terminal no VSCode, certifique-se se esta na pasta Bibeep:
     ```bash
-    php artisan
+    php artisan serve
     ```
     
 
