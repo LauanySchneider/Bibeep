@@ -35,15 +35,6 @@ A exclusão é feita no Banco de Dados e a tabela é atualizada automaticamente.
 • FrameWork Laravel: Biblioteca PHP.
 
 
-# 📂 Estrutura de Arquivos
-Aqui estão os principais arquivos do projeto:
-
-• index.html: Página de cadastro de usuários.
-• admin.html: Página de administração para exibir os usuários cadastrados.
-• userCreation.js: Lógica para adicionar usuários ao localStorage e validar os dados.
-• admin.js: Lógica para listar e excluir usuários.
-• style.css: Estilos gerais do projeto.
-• index.css: Estilos específicos da página de cadastro.
 
 
 # 🚀 Como Usar
@@ -66,7 +57,7 @@ Você pode clonar o repositório ou baixar como um arquivo zip:
     composer install
     ```
 
-Caso necessite do Composer, user este link (https://getcomposer.org/download/)
+Caso necessite do instalador .exe do Composer, user este link (https://getcomposer.org/download/)
 
 4. Faca a copia das variveis de ambiente e baixe, arquivo necessario para que funcione o Bibeep:
 https://drive.google.com/drive/folders/1nyN8F1sni1w9J0muEQWi-zIeOKONJAjf?usp=sharing
@@ -77,7 +68,8 @@ https://drive.google.com/drive/folders/1nyN8F1sni1w9J0muEQWi-zIeOKONJAjf?usp=sha
     ```
 
 
-4. Configure o banco de dados no arquivo `.env` :
+
+5. Configure o banco de dados no arquivo `.env` :
 
 ## Database Configuration
 Para conectar com o PostgreSQL database, voce precisa configurar as seguintes  variaveis de ambiente:
