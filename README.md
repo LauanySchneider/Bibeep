@@ -76,9 +76,9 @@ Para conectar com o PostgreSQL database, voce precisa configurar as seguintes  v
 
 ```bash
 DB_CONNECTION=pgsql
-DB_HOST=localhost
-DB_PORT=5433
-DB_DATABASE=financia_ai
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_DATABASE=crud_produtos
 DB_USERNAME=postgres
 DB_PASSWORD=postgres
    ```
