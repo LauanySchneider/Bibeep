@@ -79,16 +79,20 @@ https://drive.google.com/drive/folders/1nyN8F1sni1w9J0muEQWi-zIeOKONJAjf?usp=sha
 
 4. Configure o banco de dados no arquivo `.env` :
 
+## Database Configuration
+Para conectar com o PostgreSQL database, voce precisa configurar as seguintes  variaveis de ambiente:
+
+```bash
+DB_CONNECTION=pgsql
+DB_HOST=localhost
+DB_PORT=5433
+DB_DATABASE=financia_ai
+DB_USERNAME=postgres
+DB_PASSWORD=postgres
+   ```
+
   
 
-
-
-# ⚠️ Dificuldades Conhecidas
-• Apesar de ser um projeto simples, há alguns desafios conhecidos que podem afetar a experiência do usuário:
-
-• Framework Laravel: Pode haver problemas com versões com plugins.
-
-• Interface Responsiva: A interface foi projetada para ser simples, mas pode não ser totalmente otimizada para todos os dispositivos móveis. Ajustes podem ser necessários para telas muito pequenas.
 
 # 💡 Dicas e Sugestões:
 
