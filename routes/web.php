@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ProdutosController;
 
 
-Route::get('/home', function () {
+Route::get('/', function () {
     return view('index');  // Página de apresentação
 })->name('home');
 
