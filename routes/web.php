@@ -8,6 +8,10 @@ Route::get('/', function () {
     return view('index');  // Página de apresentação
 })->name('home');
 
+Route::get('/home', function () {
+    return view('index');  // Página de apresentação
+})->name('home');
+
 
 Route::get('/produtos/index', [ProdutosController::class, 'index'])->name('produtos.index');  // Página principal
 
