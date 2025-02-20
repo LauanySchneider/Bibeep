@@ -50,20 +50,37 @@ Aqui estão os principais arquivos do projeto:
 1. Clone ou Baixe o Repositório
 Você pode clonar o repositório ou baixar como um arquivo zip:
 
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone 
 
-2. Abra o Projeto no Navegador
-Após clonar o repositório, abra o arquivo index.html no seu navegador. A página de cadastro estará pronta para ser usada!
+cd B
 
-3. Cadastro de Produtos
-Preencha os campos de cadastro com as informações do produto.
-Clique no botão "Adicionar Produto" para salvar.
-Caso algum campo não esteja preenchido ou seja inválido, o sistema irá exibir um alerta.
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/LauanySchneider/Bibeep.git
+    ```
 
-4. Listagem de Produtos
-Para visualizar os usuários cadastrados, clique no botão "Listagem de Produtos".
-A lista de produtos será exibida, e você poderá atualizar a tabela sempre que desejar.
-Para excluir um produto, basta clicar no botão "Excluir" ao lado do nome do produto.
+2. Entre no diretório do projeto:
+    ```bash
+    cd Bibeep
+    ```
+
+3. Instale as dependências do Composer:
+    ```bash
+    composer install
+    ```
+4. Faca a copia das variveis de ambiente e baixe, arquivo necessario para que funcione o Bibeep:
+https://drive.google.com/drive/folders/1nyN8F1sni1w9J0muEQWi-zIeOKONJAjf?usp=sharing
+
+
+     ```bash
+    copy .env.example .env
+    ```
+
+
+4. Configure o banco de dados no arquivo `.env` :
+
+  
+
 
 
 # ⚠️ Dificuldades Conhecidas
